@@ -3,8 +3,8 @@ services:
     image: postgres:16-alpine
     container_name: nexuscloud_db
     environment:
-      POSTGRES_USER: nexus
-      POSTGRES_PASSWORD: nexus
+      POSTGRES_USER: your_userID
+      POSTGRES_PASSWORD: your_password
       POSTGRES_DB: nexuscloud
     ports:
       - "5432:5432"
