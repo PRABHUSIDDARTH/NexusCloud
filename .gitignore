@@ -40,3 +40,7 @@ build/
 docker-compose.override.yml
 
 *.cred
+
+# Personal Notes & Obsidian Vaults
+NexusCloud Learning/
+NexusCloud\ Learning/
